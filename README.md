@@ -1,5 +1,8 @@
 # koalacoders
 
+#   <h2 id="Week0">Week 0: Due 3/14</h2>
+Establish Roles Within Team
+
 Role | Name | Role Description
 ----------- | ----------- | -----------
 Scrum Master | Mahima Krovvidy | Ensure roles are assigned.  Build Scrum Board.  
