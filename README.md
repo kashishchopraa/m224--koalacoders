@@ -1,5 +1,18 @@
 # koalacoders
 
+
+## Timebox
+[Team Notes Set](https://drive.google.com/drive/folders/1OO_uDmH_A1tTisIU9VoWnIfKt1gEUctu?usp=sharing)
+
+|Name|GitHub Profile|Issues|Journals|Commits|
+|--------|---------|-------|-------|-------|
+|Mahima Krovvidy|@mahimak19|[Issues](https://github.com/yolandayangg/n224p4-beans/issues?q=is%3Aopen+is%3Aissue+author%3Ashrutiapcsp+assignee%3Amahimak19)|[Journal](https://docs.google.com/document/d/1u8SX84sg8QsT7gzVuCX_T-uksLZDLLriqrIEiLrn0aw/edit?usp=sharing)|[Commits](https://github.com/yolandayangg/n224p4-beans/commits?author=mahimak19)|
+|Divyanshi Suri|@divyanshisuri|[Issues](https://github.com/yolandayangg/n224p4-beans/issues?q=is%3Aopen+is%3Aissue+author%3Ashrutiapcsp+assignee%3Anataliecohen)|[Journal](https://docs.google.com/document/d/1u8SX84sg8QsT7gzVuCX_T-uksLZDLLriqrIEiLrn0aw/edit?usp=sharing)|[Commits](https://github.com/yolandayangg/n224p4-beans/commits?author=nataliecohen)
+|Siya Dixit|@siya-dixit|[Issues](https://github.com/yolandayangg/n224p4-beans/issues?q=is%3Aopen+is%3Aissue+author%3Ashrutiapcsp+assignee%3ANayanav)|[Journal](https://docs.google.com/document/d/1u8SX84sg8QsT7gzVuCX_T-uksLZDLLriqrIEiLrn0aw/edit?usp=sharing)|[Commits](https://github.com/yolandayangg/n224p4-beans/commits?author=Nayanav)|
+|Kashish Chopra|@kashishchopraa|[Issues](https://github.com/yolandayangg/n224p4-beans/issues?q=is%3Aopen+is%3Aissue+author%3Ashrutiapcsp+assignee%3Ashrutiapcsp)|[Journal](https://docs.google.com/document/d/1iePZMHrLpCaCBdit59z2DYMRZPzylpTn6LDC4NgAFto/edit?usp=sharing)|[Commits](https://github.com/yolandayangg/n224p4-beans/commits?author=shrutiapcsp)|
+
+
+
 #   <h2 id="Week0">Week 0: Due 3/14</h2>
 Establish Roles Within Team
 
