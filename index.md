@@ -12,6 +12,7 @@ Technical Officer | Divyanshi Suri | Works with Teacher, Classroom TOs, and BOF 
 Primary Designer | All split the work | Primary Designer and Layout manager.  Organize Jinja2 Enabled Templates, ensure usage of Bootstrap (minimize CSS customization per page).  Establish plan for overrides on each of the User Pages.
 Deployment Manager | Siya Dixit | Deploy Web site.  Establish policy and frequency for updates.  Ensure site is not broken and always alive for reviews.
 
+
 Project Overview
 
 The website that we are designing is mainly to allow college students to organize their lifestyles and activities relating to their daily life. This includes planning academic activities, free time, and daily chores that one may have. Through the use of CSS and HTML, we plan to create a website that is aesthetically pleasing. The color theme is going to be pastel colors and it is aimed to attract college students. Some of the features that we plan to do:
@@ -31,7 +32,7 @@ Sponsor Information
 
 Our Sponsor is a current UC Berkeley student who is also working at Apple. He has given us requirements to make a website that can help college students with their daily lives and organization. Things like To-Do lists, grocery list help, timers, budget trackers can help college students like him be more organized.
 
-
+[Wireframe](https://www.figma.com/file/GR7a3HWdAPiNaj1hV8ryXD/Wireframe-Tri-3?node-id=0%3A1)
 
 
 
