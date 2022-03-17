@@ -24,18 +24,8 @@
 
 Project Overview
 
-The website that we are designing is mainly to allow college students to organize their lifestyles and activities relating to their daily life. This includes planning academic activities, free time, and daily chores that one may have. Through the use of CSS and HTML, we plan to create a website that is aesthetically pleasing. The color theme is going to be pastel colors and it is aimed to attract college students. Some of the features that we plan to do:
+The website that we are designing is mainly to allow college students to organize their lifestyles and activities relating to their daily life. This includes planning academic activities, free time, and daily chores that one may have. Through the use of CSS and HTML, we plan to create a website that is aesthetically pleasing. The color theme is going to be pastel colors and it is aimed to attract college students. 
 
-A budget tracker
-A to-do list
-A calendar
-A grocery list
-A database for recipes
-A packing list
-A timer for their activities
-An API for recipes
-A map
-Some games
 
 
 
