@@ -4,7 +4,7 @@
 ## Timebox
 [Team Notes Set](https://drive.google.com/drive/folders/1OO_uDmH_A1tTisIU9VoWnIfKt1gEUctu?usp=sharing)
 
-|Name|GitHub Profile|Issues|Journals|Commits|
+|Name|GitHub Profile|Issues|Individual Github Page|Commits|
 |--------|---------|-------|-------|-------|
 |Mahima Krovvidy|@mahimak19|[Issues](issues)|[Individual Github Page](github)|[Commits](commits)|
 |Divyanshi Suri|@divyanshisuri|[Issues](issues)|[Individual Github Page](github)|[Commits](commits)
