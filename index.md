@@ -18,9 +18,7 @@
 
 |Week|Requirements|Derivative Tangibles|
 |--------|---------|-------|
-|Week 0|Web Project: Project Description, Project Plans/Ideas/Wires, Time box
-Team Roles described, Project Owner or Sponsor described, Scrum Board started
-|[Wireframe](https://www.figma.com/file/GR7a3HWdAPiNaj1hV8ryXD/Wireframe-Tri-3)|
+|Week 0|Web Project: Project Description, Project Plans/Ideas/Wires, Time box, Team Roles described, Project Owner or Sponsor described, Scrum Board started|[Wireframe](https://www.figma.com/file/GR7a3HWdAPiNaj1hV8ryXD/Wireframe-Tri-3)|
 |Week 1|@divyanshisuri|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Adivyanshisuri+is%3Aopen)|[Individual Github Page](github)|[Commits](https://github.com/kashishchopraa/m224--koalacoders/commit/1cb132c8d629e6990bf4132eb5b247d5026b67c9)
 
 
