@@ -6,7 +6,7 @@
 
 |Name|GitHub Profile|Issues|Individual Github Page|Commits|
 |--------|---------|-------|-------|-------|
-|Mahima Krovvidy|@mahimak19|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Amahimak19+is%3Aopen)|[Individual Github Page](https://mahimak19.github.io/mahima_indiv/)|[Commits](commits)|
+|Mahima Krovvidy|@mahimak19|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Amahimak19+is%3Aopen)|[Individual Github Page](https://mahimak19.github.io/mahima_indiv/)|[Commits](https://github.com/kashishchopraa/m224--koalacoders/commit/69aaeeee26447ac0912cc5721f2af65ff3b6c445)|
 |Divyanshi Suri|@divyanshisuri|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Adivyanshisuri+is%3Aopen)|[Individual Github Page](github)|[Commits](commits)
 |Siya Dixit|@siya-dixit|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Asiya-dixit+is%3Aopen)|[Individual Github Page](https://siya-dixit.github.io/siya-repository/)|[Commits](commit)|
 |Kashish Chopra|@kashishchopraa|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Akashishchopraa+is%3Aopen)|[Individual Github Page](https://kashishchopraa.github.io/Individual-Algorithmic-Project/)|[Commits](https://github.com/kashishchopraa/m224--koalacoders/commit/18821440f16c09d22f216cea670b266e78ef5c3f)|
