@@ -19,7 +19,7 @@
 |Week|Requirements|Derivative Tangibles|
 |--------|---------|-------|
 |Week 0|Web Project: Project Description, Project Plans/Ideas/Wires, Time box, Team Roles described, Project Owner or Sponsor described, Scrum Board started|[Wireframe](https://www.figma.com/file/GR7a3HWdAPiNaj1hV8ryXD/Wireframe-Tri-3)|
-|Week 1|Project Owner initial requirements, contact info, and derivative tangible plans Requirements and Jobs assigned to each individuals listed on Scrum Board, including at least one in progress task|[Budget Tracker Wireframe](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Adivyanshisuri+is%3Aopen)|
+|Week 1|Project Owner initial requirements, contact info, and derivative tangible plans Requirements and Jobs assigned to each individuals listed on Scrum Board, including at least one in progress task|[Budget Tracker Wireframe](https://www.figma.com/file/GR7a3HWdAPiNaj1hV8ryXD/Wireframe-Tri-3?node-id=0%3A1)|
 
 
 Project Overview
