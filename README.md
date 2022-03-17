@@ -8,7 +8,7 @@
 |--------|---------|-------|-------|-------|
 |Mahima Krovvidy|@mahimak19|[Issues](issues)|[Individual Github Page](github)|[Commits](commits)|
 |Divyanshi Suri|@divyanshisuri|[Issues](issues)|[Individual Github Page](github)|[Commits](commits)
-|Siya Dixit|@siya-dixit|[Issues](issues)|[Individual Github Page](github)|[Commits](commit)|
+|Siya Dixit|@siya-dixit|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Asiya-dixit+is%3Aopen)|[Individual Github Page](github)|[Commits](commit)|
 |Kashish Chopra|@kashishchopraa|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Akashishchopraa+is%3Aopen)|[Individual Github Page](https://kashishchopraa.github.io/Individual-Algorithmic-Project/)|[Commits](commits)|
 
 
