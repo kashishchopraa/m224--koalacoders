@@ -14,6 +14,16 @@
 |Siya Dixit (Deployment Manager)|@siya-dixit|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Asiya-dixit+is%3Aopen)|[Individual Github Page](https://siya-dixit.github.io/siya-repository/)|[Commits](commit)|
 |Kashish Chopra (Github Admin)|@kashishchopraa|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Akashishchopraa+is%3Aopen)|[Individual Github Page](https://kashishchopraa.github.io/Individual-Algorithmic-Project/)|[Commits](https://github.com/kashishchopraa/m224--koalacoders/commit/18821440f16c09d22f216cea670b266e78ef5c3f)|
 
+## Weekly Timebox
+
+|Week|Requirements|Derivative Tangibles|
+|--------|---------|-------|
+|Week 0|Web Project: Project Description, Project Plans/Ideas/Wires, Time box
+Team Roles described, Project Owner or Sponsor described, Scrum Board started
+|[Wireframe](https://www.figma.com/file/GR7a3HWdAPiNaj1hV8ryXD/Wireframe-Tri-3)|
+|Week 1|@divyanshisuri|[Issues](https://github.com/kashishchopraa/m224--koalacoders/issues?q=assignee%3Adivyanshisuri+is%3Aopen)|[Individual Github Page](github)|[Commits](https://github.com/kashishchopraa/m224--koalacoders/commit/1cb132c8d629e6990bf4132eb5b247d5026b67c9)
+
+
 
 Project Overview
 
