@@ -6,10 +6,10 @@
 
 |Name|GitHub Profile|Issues|Journals|Commits|
 |--------|---------|-------|-------|-------|
-|Mahima Krovvidy|@mahimak19|[Issues](https://github.com/yolandayangg/n224p4-beans/issues?q=is%3Aopen+is%3Aissue+author%3Ashrutiapcsp+assignee%3Amahimak19)|[Journal](https://docs.google.com/document/d/1u8SX84sg8QsT7gzVuCX_T-uksLZDLLriqrIEiLrn0aw/edit?usp=sharing)|[Commits](https://github.com/yolandayangg/n224p4-beans/commits?author=mahimak19)|
-|Divyanshi Suri|@divyanshisuri|[Issues](https://github.com/yolandayangg/n224p4-beans/issues?q=is%3Aopen+is%3Aissue+author%3Ashrutiapcsp+assignee%3Anataliecohen)|[Journal](https://docs.google.com/document/d/1u8SX84sg8QsT7gzVuCX_T-uksLZDLLriqrIEiLrn0aw/edit?usp=sharing)|[Commits](https://github.com/yolandayangg/n224p4-beans/commits?author=nataliecohen)
-|Siya Dixit|@siya-dixit|[Issues](https://github.com/yolandayangg/n224p4-beans/issues?q=is%3Aopen+is%3Aissue+author%3Ashrutiapcsp+assignee%3ANayanav)|[Journal](https://docs.google.com/document/d/1u8SX84sg8QsT7gzVuCX_T-uksLZDLLriqrIEiLrn0aw/edit?usp=sharing)|[Commits](https://github.com/yolandayangg/n224p4-beans/commits?author=Nayanav)|
-|Kashish Chopra|@kashishchopraa|[Issues](https://github.com/yolandayangg/n224p4-beans/issues?q=is%3Aopen+is%3Aissue+author%3Ashrutiapcsp+assignee%3Ashrutiapcsp)|[Journal](https://docs.google.com/document/d/1iePZMHrLpCaCBdit59z2DYMRZPzylpTn6LDC4NgAFto/edit?usp=sharing)|[Commits](https://github.com/yolandayangg/n224p4-beans/commits?author=shrutiapcsp)|
+|Mahima Krovvidy|@mahimak19|[Issues](issues)|[Individual Github Page](github)|[Commits](commits)|
+|Divyanshi Suri|@divyanshisuri|[Issues](issues)|[Individual Github Page](github)|[Commits](commits)
+|Siya Dixit|@siya-dixit|[Issues](issues)|[Individual Github Page](github)|[Commits](commit)|
+|Kashish Chopra|@kashishchopraa|[Issues](issues)|[Individual Github Page](https://kashishchopraa.github.io/Individual-Algorithmic-Project/)|[Commits](commits)|
 
 
 
