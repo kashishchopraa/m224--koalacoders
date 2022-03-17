@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Welcome to GitHub Pages
 
 Week 0: Due 3/14
