@@ -4,4 +4,3 @@ Wireframe
 
 [Brainwriting](https://docs.google.com/document/d/17YyLoAyvybri-im0QEUe5gXrXrxKp6mghYwbyYo1NWk/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/document/d/17YyLoAyvybri-im0QEUe5gXrXrxKp6mghYwbyYo1NWk/edit?usp=sharing" title="Brainwriting"></iframe>
