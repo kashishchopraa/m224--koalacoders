@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+{% extends "layouts/base.html" %}
+
+{% block body %}
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+        }
+
+        .carousel {
+            width: 100vw;
+            height: 100vh;
+            position: relative;
+        }
+
+        .carousel > ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .slide {
+            position: absolute;
+            inset: 0;
+            opacity: 0;
+            transition: 200ms opacity ease-in-out;
+            transition-delay: 200ms;
+        }
+
+        .slide > img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
+
+        .slide[data-active] {
+            opacity: 1;
+            z-index: 1;
+            transition-delay: 0ms;
+        }
+
+        .carousel-button {
+            position: absolute;
+            z-index: 2;
+            background: none;
+            border: none;
+            font-size: 4rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: rgba(255, 255, 255, .5);
+            cursor: pointer;
+            border-radius: .25rem;
+            padding: 0 .5rem;
+            background-color: rgba(0, 0, 0, .1);
+        }
+
+        .carousel-button:hover,
+        .carousel-button:focus {
+            color: white;
+            background-color: rgba(0, 0, 0, .2);
+        }
+
+        .carousel-button:focus {
+            outline: 1px solid black;
+        }
+
+        .carousel-button.prev {
+            left: 1rem;
+        }
+
+        .carousel-button.next {
+            right: 1rem;
+        }
+    </style>
+
+    <html>
+    <head>
+        <h2> About Personality Type X</h2>
+        <br>
+        <br>
+        <div style="color: darkgreen"
+        <h5>Type X personalities are heavily influenced by Type A and B personalities. However, Type X personalities can be a mix of two or more personality types, combining A, B, C and D personalities. Some typical things a Type X might do is studying for a test every day and planning ahead, and then one day you're suddenly cramming everything. You might be super energetic and social one day, and then another day all you want to do is relax at home by yourself. With Type X, the possibilities are endless. You typically lean towards either extreme for the other personaltities.</h5>
+        <br>
+        <br>
+        <br>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js" defer></script>
+        <title>Document</title>
+    </head>
+    <body>
+    <section aria-label="Newest Photos">
+        <div class="carousel" data-carousel>
+            <button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
+            <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
+            <ul data-slides>
+                <li class="slide" data-active>
+                    <img src="/static/typex1.jpeg" alt="Type X Image #1">
+                </li>
+                <li class="slide">
+                    <img src="/static/typex2.jpeg" alt="Type X Image #2">
+                </li>
+                <li class="slide">
+                    <img src="/static/typex3.jpeg" alt="Type X Image #3">
+                </li>
+            </ul>
+        </div>
+    </section>
+    <br>
+    <br>
+    <br>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/62d2QvWAVt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br>
+    <br>
+    <br>
+    <div class="col-20">
+        <button onclick="alphaSort()">Sort Alphabetically</button>
+        <p id="demo" style="text-align: right; font-size: x-large"></p>
+
+    </div>
+    </body>
+    </html>
+
+    <script>
+        const buttons = document.querySelectorAll("[data-carousel-button]")
+
+        buttons.forEach(button => {
+            button.addEventListener("click", () => {
+                const offset = button.dataset.carouselButton === "next" ? 1 : -1
+                const slides = button
+                    .closest("[data-carousel]")
+                    .querySelector("[data-slides]")
+
+                const activeSlide = slides.querySelector("[data-active]")
+                let newIndex = [...slides.children].indexOf(activeSlide) + offset
+                if (newIndex < 0) newIndex = slides.children.length - 1
+                if (newIndex >= slides.children.length) newIndex = 0
+
+                slides.children[newIndex].dataset.active = true
+                delete activeSlide.dataset.active
+            })
+        })
+
+        const points = ["Balance", "Relaxation", "Socialization", "Emotional", "Energetic", "Lofi"];
+        document.getElementById("demo").innerHTML = points;
+
+        function alphaSort() {
+            points.sort();
+            document.getElementById("demo").innerHTML = points;
+        }
+    </script>
+{% endblock %}
