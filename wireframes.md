@@ -14,4 +14,4 @@
 
 ## Flow Chart for Features:
 
-<img width="801" alt="Screen Shot 2022-03-25 at 1 23 22 PM" src="https://user-images.githubusercontent.com/89278005/160195693-a2567843-688f-47dc-9a74-b29b1f06d511.png">
+<img width="617" alt="Screen Shot 2022-03-25 at 1 31 48 PM" src="https://user-images.githubusercontent.com/89278005/160196773-0866308a-2db1-4c59-87fe-f6ea7a7cd038.png">
